@@ -3,7 +3,7 @@
 ![blog_lambada_2](https://user-images.githubusercontent.com/56406481/215241078-7550d360-352a-4ff4-9c80-26b14e5d6192.png)
 
 
-##Porque la gente esta tan loca con programacion funcional?
+## Porque la gente esta tan loca con programacion funcional?
 
 Una de las razones de esto es porque se considera un codigo que proporciona **un rendimiento muy eficiente**.
 
