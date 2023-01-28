@@ -1,0 +1,31 @@
+
+S
+java:S1854"=Remove this useless assignment to local variable "supplier2".(’øÖ¾
+W
+java:S1854"<Remove this useless assignment to local variable "supplier".(¼¨Õüşÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "consumer3".(ÊÜ¬Êÿÿÿÿÿ
+R
+java:S1854"=Remove this useless assignment to local variable "consumer2".(»óA
+R
+java:S1854"=Remove this useless assignment to local variable "consumer1".(¬Î‚>
+F
+java:S1611"1Remove the parentheses around the "str" parameter(¬Î‚>
+J
+java:S1481".Remove this unused "consumer1" local variable.(¬Î‚>8Àä…Ş0
+F
+java:S1611"1Remove the parentheses around the "str" parameter(»óA
+U
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(»óA
+M	java:S106"9Replace this use of System.out or System.err by a logger.(»óA
+C
+java:S1481".Remove this unused "consumer2" local variable.(»óA
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÜ¬Êÿÿÿÿÿ
+I
+java:S1481".Remove this unused "consumer3" local variable.(ÊÜ¬Êÿÿÿÿÿ
+H
+java:S1481"-Remove this unused "supplier" local variable.(¼¨Õüşÿÿÿÿ
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(’øÖ¾
+D
+java:S1481".Remove this unused "supplier2" local variable.(’øÖ¾

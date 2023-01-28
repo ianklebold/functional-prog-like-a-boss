@@ -1,0 +1,18 @@
+
+>
+java:S1604"(Make this anonymous inner class a lambda(»Ä¨©
+C
+java:S16041"(Make this anonymous inner class a lambda(Ë¯â—ûÿÿÿÿ
+C
+java:S1604B"(Make this anonymous inner class a lambda(Óäñüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(­Èˆ
+w
+java:S4276."\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(†×©‰üÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(ˆ²ºàüÿÿÿÿ
+w
+java:S42761"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(Ë¯â—ûÿÿÿÿ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(³Ş ù
+M	java:S106?"9Replace this use of System.out or System.err by a logger.(œàæ]
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(«òˆì
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ÊÌ±èøÿÿÿÿ8ø«¹®İ0
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(´Šóşÿÿÿÿ8ó»º®İ0

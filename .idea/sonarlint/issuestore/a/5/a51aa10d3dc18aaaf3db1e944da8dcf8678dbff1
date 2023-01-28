@@ -1,0 +1,20 @@
+
+l
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ÜÚ—ö
+E
+java:S1611"/Remove the parentheses around the "x" parameter(ÜÚ—ö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”ËÖøÿÿÿÿ
+f
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(ì¡Ô-
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øò£Æıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÖñ¢ÿÿÿÿÿ
+n
+java:S1602("SRemove useless curly braces around statement and then remove useless return keyword(¸“»•şÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ç›ù¿
+r
+java:S42762"\Refactor this code to use the more specialised Functional Interface 'ObjIntConsumer<String>'(ş—õÕ
+B
+java:S16022",Remove useless curly braces around statement(ş—õÕ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(›Á¹ùÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ÀÖĞî
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(¥ìêÒ

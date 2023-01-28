@@ -1,0 +1,14 @@
+
+C
+java:S1604"(Make this anonymous inner class a lambda(Šıÿÿÿÿ
+b
+java:S1854"ERemove this useless assignment to local variable "sumBinaryOperator".(¯÷ÚŒ8†Âß®İ0
+E
+java:S2201"*The return value of "reduce" must be used.(ŒêŒÍıÿÿÿÿ
+t
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(¯÷ÚŒ8ŠÂß®İ0
+V	java:S125"<This block of commented-out lines of code should be removed.(šÓÒ¶úÿÿÿÿ
+S
+java:S1481"6Remove this unused "sumBinaryOperator" local variable.(¯÷ÚŒ8¢Óß®İ0
+G
+java:S2201"*The return value of "reduce" must be used.(Úóë¬8©ÙŞ®İ0
