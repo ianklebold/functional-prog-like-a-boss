@@ -39,7 +39,7 @@ Optional[MICROSERVICES]
 
 ```
 
-Lo interesante de este resultado es que en ningun momento se puse a chequear los elementos "AWS","PCF","Azue","Docker","Kubernetes" de la lista.
+Lo interesante de este resultado es que en ningun momento chequeó los elementos "AWS","PCF","Azue","Docker","Kubernetes" de la lista.
 Esto es precisamente porque estamos pidiendo solamente el primer elemento ``` .findFirst()```.
 
 Lo que ocurre realmente es que, compara cada uno de los elementos y si no cumple con la condicion de filtro entonces sigue aceptando elementos 
